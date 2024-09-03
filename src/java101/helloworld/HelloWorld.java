@@ -12,7 +12,7 @@ public final class HelloWorld {
 
     /**
      * Drives the program.
-     * @param args unused
+     * @param args unused array of String
      */
     public static void main(final String[] args) {
 
@@ -31,7 +31,7 @@ public final class HelloWorld {
         System.out.println(noString);
 
         final int theAnswerToEverything = 42;
-        // theAnswerToEverything = -1;
+        // theAnswerToEverything = null;
         System.out.println(theAnswerToEverything);
 
         final double goldenRatio = 1.6180339887498948482;
@@ -43,4 +43,4 @@ public final class HelloWorld {
         }
 
     }
-} // end of the class
+} // end of the HelloWorld class
