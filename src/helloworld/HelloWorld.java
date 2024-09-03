@@ -1,4 +1,4 @@
-package java101.helloworld;
+package helloworld;
 
 /**
  * HelloWorld.
